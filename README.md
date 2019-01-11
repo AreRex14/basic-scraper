@@ -16,3 +16,8 @@ It is the process of extracting information and data from a website, transformin
 
 ## How to achieve that?
 By using a web scraper. Anybody can copy the text on a webpage and paste it into another page, and web scrapers are simply the algorithms that can do it much quicker than humans.
+
+## Install required packages
+
+We are going to use BeautifulSoup for basic scraping.
+`pip install BeautifulSoup4`
