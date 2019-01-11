@@ -20,4 +20,6 @@ By using a web scraper. Anybody can copy the text on a webpage and paste it into
 ## Install required packages
 
 We are going to use BeautifulSoup for basic scraping.
-`pip install BeautifulSoup4`
+```python
+pip install BeautifulSoup4`
+```
