@@ -21,5 +21,5 @@ By using a web scraper. Anybody can copy the text on a webpage and paste it into
 
 We are going to use BeautifulSoup for basic scraping.
 ```python
-pip install BeautifulSoup4`
+pip install BeautifulSoup4
 ```
